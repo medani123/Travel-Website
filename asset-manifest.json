@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Shpping-website-react/static/css/main.9c4735e3.chunk.css",
+    "main.js": "/Shpping-website-react/static/js/main.a6883800.chunk.js",
+    "main.js.map": "/Shpping-website-react/static/js/main.a6883800.chunk.js.map",
+    "runtime-main.js": "/Shpping-website-react/static/js/runtime-main.0b6e72ee.js",
+    "runtime-main.js.map": "/Shpping-website-react/static/js/runtime-main.0b6e72ee.js.map",
+    "static/js/2.3539b68d.chunk.js": "/Shpping-website-react/static/js/2.3539b68d.chunk.js",
+    "static/js/2.3539b68d.chunk.js.map": "/Shpping-website-react/static/js/2.3539b68d.chunk.js.map",
+    "index.html": "/Shpping-website-react/index.html",
+    "static/css/main.9c4735e3.chunk.css.map": "/Shpping-website-react/static/css/main.9c4735e3.chunk.css.map",
+    "static/js/2.3539b68d.chunk.js.LICENSE.txt": "/Shpping-website-react/static/js/2.3539b68d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Shpping-website-react/static/media/img-8.fabdf94d.jpg",
+    "static/media/video-1.mp4": "/Shpping-website-react/static/media/video-1.59e75226.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b6e72ee.js",
+    "static/js/2.3539b68d.chunk.js",
+    "static/css/main.9c4735e3.chunk.css",
+    "static/js/main.a6883800.chunk.js"
+  ]
+}
